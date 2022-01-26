@@ -11,7 +11,7 @@ profile:
     <p>School of Engineering, <a href='https://fi.ort.edu.uy'>Universidad ORT Uruguay</a>.
     <p><a href="mailto://ferragut@fi365.ort.edu.uy">Contact.</a></p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
