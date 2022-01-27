@@ -1,15 +1,16 @@
 ---
 layout: about
-title: about
+title: Bio
 permalink: /
 subtitle:
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p class="h4"> Associate Professor</p>
-    <p>School of Engineering, <a href='https://fi.ort.edu.uy'>Universidad ORT Uruguay</a>.
-    <p><a href="mailto://ferragut@fi365.ort.edu.uy">Contact.</a></p>
+    <h4> Associate Professor</h4>
+    <p>School of Engineering,
+    <p><a href='https://fi.ort.edu.uy'>Universidad ORT Uruguay</a></p>
+    <p><a href="mailto://ferragut@fi365.ort.edu.uy">Contact</a></p>
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"

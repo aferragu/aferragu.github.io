@@ -2,7 +2,10 @@
  * Styles for the base elements of the theme.
  ******************************************************************************/
 
+
 // Typography
+
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Oswald:wght@500&family=Roboto+Mono&display=swap');
 
 p, h1, h2, h3, h4, h5, h6, em, div, li, span, strong {
   color: var(--global-text-color);
@@ -59,13 +62,13 @@ blockquote {
 // Profile
 
 .profile {
-  margin-left: 1rem;
+  margin-left: 2rem;
   width: 100%;
 
   .address {
     margin-bottom: 5px;
     margin-top: 5px;
-    font-family: monospace;
+    font-family: 'Roboto Mono', monospace;
     p {
       display: inline-block;
       margin: 0;
@@ -537,7 +540,7 @@ html.transition *:after {
 
 // Extra Markdown style (post Customization)
 .post{
-  margin-top: 56px;
+  margin-top: 66px;
   .post-meta{
     color: var(--global-text-color-light);
     font-size: 0.875rem;
