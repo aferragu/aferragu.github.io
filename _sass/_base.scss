@@ -98,7 +98,7 @@ blockquote {
 // Navbar customization
 
 .navbar {
-  box-shadow: none;
+  box-shadow: 10px;
   border-bottom: 1px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
   opacity: 0.95;
@@ -537,6 +537,7 @@ html.transition *:after {
 
 // Extra Markdown style (post Customization)
 .post{
+  margin-top: 56px;
   .post-meta{
     color: var(--global-text-color-light);
     font-size: 0.875rem;

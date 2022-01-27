@@ -2,19 +2,23 @@
  * Content
  ******************************************************************************/
 
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Oswald:wght@500&display=swap');
+
 body {
   padding-bottom: 70px;
   color: var(--global-text-color);
   background-color: var(--global-bg-color);
+  font-family: 'Lato', sans-serif;
 
   h1, h2, h3, h4, h5, h6 {
+    font-family: 'Oswald', sans-serif;
     scroll-margin-top: 66px;
   }
 }
 
 body.fixed-top-nav {
   // Add some padding for the nav-bar.
-  padding-top: 56px;
+  padding-top: 66px;
 }
 
 body.sticky-bottom-footer {
