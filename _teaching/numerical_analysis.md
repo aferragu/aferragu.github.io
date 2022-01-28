@@ -19,7 +19,7 @@ category: undergraduate
 In this course, we provide a basic introduction of numerical issues in computing. We describe floating point precision, analyze iterative algorithms to solve nonlinear equation problems, discuss least-squares and interpolation methods and give a brief introduction to ordinary differential equation numerical solving. The course is based on Julia.
 
 * Source [here](https://github.com/aferragu/curso_analisis_numerico)) (in spanish). Last update: Jun 2020.
-* Check the notebooks with [nbviewer](https://nbviewer.jupyter.org/github/aferragu/curso_analisis_numerico/tree/master/)
+* Check the notebooks with [nbviewer](https://nbviewer.jupyter.org/github/aferragu/curso_analisis_numerico/tree/master/).
 
 </div>
 </div>
