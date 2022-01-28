@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Network Performance Analysis
-description: A mixed course on mathematical analysis on networks.
+description: A mixed course on mathematical analysis of networks.
 img: assets/img/network.jpg
 importance: 1
 category: undergraduate

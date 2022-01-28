@@ -1,6 +1,6 @@
 ---
 layout: page
-title: EVWueues.jl
+title: EVQueues.jl
 description: Julia simulator for different deadline and non-deadline based EV charging policies
 img: assets/img/ev.jpg
 importance: 1
