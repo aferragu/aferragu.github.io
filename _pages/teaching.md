@@ -5,7 +5,7 @@ title: Teaching
 description: Material for courses
 nav: true
 display_categories: [graduate,undergraduate]
-horizontal: false
+horizontal: true
 ---
 
 All of my teaching is given in spanish, so most of the materials here are in spanish.
