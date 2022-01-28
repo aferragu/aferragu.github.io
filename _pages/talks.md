@@ -1,15 +1,12 @@
 ---
 layout: page
-permalink: /teaching/
-title: Teaching
-description: Material for courses
+permalink: /talks/
+title: Talks
+description: Some recent talks about my research.
 nav: true
-display_categories: [graduate,undergraduate]
+#display_categories: [conference, seminar]
 horizontal: true
 ---
-
-All of my teaching is given in spanish, so most of the materials here are in spanish.
-I like to use [jupyter notebooks](https://jupyter.org/) whenever possible for courses, since that enables to mix math and code easily, and give nice presentations via the [`rise`](https://rise.readthedocs.io/en/stable/) plugin.
 
 
 <!-- pages/teaching.md -->
@@ -40,7 +37,7 @@ I like to use [jupyter notebooks](https://jupyter.org/) whenever possible for co
 
 {%- else -%}
 <!-- Display projects without categories -->
-  {%- assign sorted_courses = site.projects | sort: "importance" -%}
+  {%- assign sorted_courses = site.talks | sort: "importance" -%}
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
   <div class="container">

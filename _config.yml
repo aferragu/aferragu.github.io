@@ -111,6 +111,9 @@ collections:
   teaching:
     output: true
     permalink: /teaching/:path/
+  talks:
+    output: true
+    permalink: /talks/:path/
 
 news_limit: 0
 
@@ -207,9 +210,9 @@ jekyll-archives:
 scholar:
 
   last_name: Ferragut
-  first_name: [Andres, A.]
+  first_name: [Andres, A., Andrés]
 
-  style: modern-language-association
+  style: apa
   locale: en
 
   source: /_bibliography/
