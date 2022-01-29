@@ -7,6 +7,9 @@ years: [2021,2020,2019,2018,2017,2016,2015,2014,2013,2012,2011,2010,2009,2008,20
 nav: true
 ---
 <!-- _pages/publications.md -->
+
+___
+
 <h2>Preprints</h2>
 
 <div class="publications">
@@ -14,6 +17,8 @@ nav: true
 {% bibliography -f preprints %}
 
 </div>
+
+___
 
 <h2>Articles and Conferences</h2>
 
