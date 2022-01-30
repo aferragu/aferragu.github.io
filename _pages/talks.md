@@ -8,51 +8,23 @@ nav: true
 horizontal: true
 ---
 
-
-<!-- pages/teaching.md -->
-<div class="projects">
-{%- if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {%- for category in page.display_categories %}
-  <h2 class="category">{{ category }}</h2>
-  {%- assign categorized_courses = site.teaching | where: "category", category -%}
-  {%- assign sorted_courses = categorized_courses | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_courses -%}
-      {% include projects_horizontal.html %}
+<div class="news">
+  <div class="table-responsive">
+    <table class="table table-sm table-borderless">
+    {%- assign news = site.talks | reverse -%}
+    {% for item in news %}
+      <tr>
+        <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>
+        {% if item.media -%}
+          <td>
+            {{item.media}}
+          </td>
+        {%- endif %}
+        <td>
+            {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
+        </td>
+      </tr>
     {%- endfor %}
-    </div>
+    </table>
   </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_courses -%}
-      {% include projects.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-  {% endfor %}
-
-{%- else -%}
-<!-- Display projects without categories -->
-  {%- assign sorted_courses = site.talks | sort: "importance" -%}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_courses -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
-    </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_courses -%}
-      {% include projects.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-{%- endif -%}
 </div>
