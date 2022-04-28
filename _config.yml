@@ -212,7 +212,7 @@ scholar:
   last_name: Ferragut
   first_name: [Andres, A., Andrés]
 
-  style: apa
+  style: dependent/ieee-access
   locale: en
 
   source: /_bibliography/
