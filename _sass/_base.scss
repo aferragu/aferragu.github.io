@@ -354,14 +354,15 @@ footer.sticky-bottom {
       width: 100%;
     }
     .card-title {
-      color: $black-color;
+      color: var(--global-text-color);
     }
+    background-color: var(--global-bg-color)
   }
 
   .card-item {
     width: auto;
     margin-bottom: 10px;
-
+    color: var(--global-text-color);
     .row {
       display: flex;
       align-items: center;
