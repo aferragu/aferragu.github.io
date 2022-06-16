@@ -95,7 +95,9 @@
               {%- endif %}
               .</em>
           {%- elsif entry.type == "inproceedings" -%}
-            <em>In {{entry.booktitle}}</em>
+            {%- capture entrytype -%}<em>In {{entry.booktitle}}</em> {%- endcapture -%}
+          {%- else -%}
+            {%- capture entrytype -%}{%- endcapture -%}
           {%- endif -%}
         </div>
         {%- endif %}
@@ -163,7 +165,7 @@
           {% if entry.bibtex_show -%}
           <!-- Hidden bibtex block -->
           <div class="bibtex hidden">
-            {% highlight bibtex %}{{ entry.bibtex }}{% endhighlight %}
+            {% highlight bibtex %}{{ entry.bibtex | hideCustomBibtex }}{% endhighlight %}
           </div>
           {%- endif %}
         </div>
