@@ -95,7 +95,7 @@
               {%- endif %}
               .</em>
           {%- elsif entry.type == "inproceedings" -%}
-            {%- capture entrytype -%}<em>In {{entry.booktitle}}</em> {%- endcapture -%}
+            <em>In {{entry.booktitle}}</em>
           {%- else -%}
             {%- capture entrytype -%}{%- endcapture -%}
           {%- endif -%}
