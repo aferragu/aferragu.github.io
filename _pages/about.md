@@ -6,6 +6,7 @@ subtitle:
 profile:
   align: right
   image: prof_pic.jpg
+  image_cicular: false # crops the image to make it circular
   address: >
     <h4> Associate Professor</h4>
     <p>School of Engineering,
