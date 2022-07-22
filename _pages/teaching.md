@@ -4,9 +4,9 @@ permalink: /teaching/
 title: Teaching
 description: Material for courses
 nav: true
-nav_order: 4
 display_categories: [graduate,undergraduate]
 horizontal: true
+nav_order: 3
 ---
 
 All of my teaching is given in spanish, so most of the materials here are in spanish.

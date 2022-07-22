@@ -6,6 +6,7 @@ description: Some recent talks about my research.
 nav: true
 #display_categories: [conference, seminar]
 horizontal: true
+nav_order: 2
 ---
 
 <div class="news">
