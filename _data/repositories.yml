@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - aferragu
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - aferragu/covid-r-monitor
+  - Grupo-MATE/EVQueues.jl
+  - aferragu/curso_series_temporales
+  - aferragu/analisisderedes
+  - aferragu/curso_analisis_numerico
+  - aferragu/charla-modelos-tetris
