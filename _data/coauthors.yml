@@ -1,34 +1,43 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Wierman":
+  - firstname: ["Adam", "A."]
+    url: https://adamwierman.com/
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Mallada":
+  - firstname: ["Enrique", "E."]
+    url: https://mallada.ece.jhu.edu/
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Pates":
+  - firstname: ["Richard", "R."]
+    url: https://www.richardpates.com/
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Nakahira":
+  - firstname: ["Yorie", "Y."]
+    url: https://www.ece.cmu.edu/directory/bios/nakahira-yorie.html
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Zubeldia":
+  - firstname: ["Martín", "Martin", "M."]
+    url: https://sites.google.com/view/martin-zubeldia/home
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Zubeldía":
+  - firstname: ["Martín", "Martin", "M."]
+    url: https://sites.google.com/view/martin-zubeldia/home
 
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Goldsztajn":
+  - firstname: ["Diego", "D."]
+    url: https://www.thenetworkcenter.nl/People/PhD-students/person/85/Diego-Goldsztajn,-MSc
 
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Tang":
+  - firstame: ["Kevin"]
+    url: https://www.ece.cornell.edu/faculty-directory/kevin-tang
 
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Jonckheere":
+  - firstname: ["Matthieu", "M."]
+    url: http://matthieujonckheere.blogspot.com/
+
+"Mordecki":
+  - firstname: ["Ernesto", "E."]
+    url: http://www.cmat.edu.uy/~mordecki/
+
+"Fiori":
+  - firstname: ["Marcelo", "M."]
+    url: https://www.fing.edu.uy/~mfiori/
