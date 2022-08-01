@@ -36,6 +36,12 @@ a, table.table a {
   }
 }
 
+.bib {
+  &.row:hover {
+    background-color: var(--global-bib-bg-color)
+  }
+}
+
 figure, img {
   max-width: 90vw;
 }
