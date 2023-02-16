@@ -9,5 +9,5 @@ I was invited to give a talk at the [AI4OPT institute](https://www.ai4opt.org/) 
 
 
 <div style="padding:2em">
-<a href="https://www.ai4opt.org/news-events/ai4opt-seminar-series-andres-ferragut"><img src="/assets/img/gatech_talk.jpg" width="200"/></a>
+<a href="https://www.ai4opt.org/news-events/ai4opt-seminar-series-andres-ferragut"><img src="/assets/img/gatech_talk.jpg" height="200"/></a>
 </div>
