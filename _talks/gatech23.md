@@ -10,4 +10,4 @@ importance: 1
 category: conference
 ---
 
-My invited talk about Spatially distributed EV charging during my visit to ISyE department and AI4OPT institute at Georgia Tech, Atlanta. Thanks a lot to [Siva Theja Maguluri](https://sites.google.com/site/sivatheja/) for inviting me! [[slides]](/assets/pdf/ai4opt_ferragut.pdf)], [[video]](https://youtu.be/vC6a_EyItlI).
+My invited talk about Spatially distributed EV charging during my visit to ISyE department and AI4OPT institute at Georgia Tech, Atlanta. Thanks a lot to [Siva Theja Maguluri](https://sites.google.com/site/sivatheja/) for inviting me! [[slides](/assets/pdf/ai4opt_ferragut.pdf)], [[video](https://youtu.be/vC6a_EyItlI)].
