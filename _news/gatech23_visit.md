@@ -5,7 +5,7 @@ inline: true
 title: Georgia Tech visit!
 ---
 
-I was invited to give a talk at the [AI4OPT institute](https://www.ai4opt.org/) in Georgia Tech, Atlanta, about spatial load balancing. Details are [here](https://www.ai4opt.org/news-events/ai4opt-seminar-series-andres-ferragut).
+I was invited to give a talk at the [AI4OPT institute](https://www.ai4opt.org/) in Georgia Tech, Atlanta, about spatial load balancing. Details are [here](https://www.ai4opt.org/news-events/ai4opt-seminar-series-andres-ferragut). [Video of the talk](https://youtu.be/vC6a_EyItlI)
 
 
 <div style="padding:2em">
