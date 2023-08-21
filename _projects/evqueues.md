@@ -15,4 +15,4 @@ This simulator in [Julia](https://julialang.org/) enables to simulate random arr
 
 Check out the publications page for more info on analysis of scheduling in EV charging facilities.
 
-* [Source code](https://github.com/Grupo-MATE/EVQueues.jl)
+* [Source code](https://github.com/aferragu/EVQueues.jl)
