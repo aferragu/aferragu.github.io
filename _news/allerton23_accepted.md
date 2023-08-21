@@ -5,4 +5,4 @@ inline: true
 title: Allerton 23 accepted!
 ---
 
-Our [paper](assets/pdf/allerton23.pdf) on spatial load balancing for EV charging just got accepted into [https://allerton.csl.illinois.edu/](Allerton 23)!
+Our [paper](assets/pdf/allerton23.pdf) on spatial load balancing for EV charging just got accepted into [Allerton 23](https://allerton.csl.illinois.edu/)!
