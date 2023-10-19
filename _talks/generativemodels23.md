@@ -6,7 +6,7 @@ title: Autoregressive generative models
 description: Generative models seminar, UdelaR (Oct 2023)
 importance: 1
 media: >
-  <a href="https://github.com/aferragu/generative_models_arm"><img src="https://github.com/aferragu/generative_models_arm/blob/e0116d2bf77ae6ce4351ea501bf02f02a7a8068b/dgm.png" width="200"/></a>
+  <a href="https://github.com/aferragu/generative_models_arm"><img src="https://github.com/aferragu/generative_models_arm/blob/e0116d2bf77ae6ce4351ea501bf02f02a7a8068b/dgm.png?raw=true" width="200"/></a>
 category: seminar
 ---
 
