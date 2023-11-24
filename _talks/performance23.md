@@ -10,4 +10,4 @@ media: >
 category: seminar
 ---
 
-My talk about imbalance between server pools and applications to 3-phase EV charging in IFIP Performance. [[slides]](assets/pdf/performance23_talk.pdf).
+My talk about imbalance between server pools and applications to 3-phase EV charging in IFIP Performance. [[slides]](/assets/pdf/performance23_talk.pdf).

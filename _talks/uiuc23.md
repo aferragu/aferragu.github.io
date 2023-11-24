@@ -10,4 +10,4 @@ importance: 1
 category: seminar
 ---
 
-My invited talk about the universal optimality of timer based caching policies for bursty traffic. Thanks a lot to [R. Srikant](https://sites.google.com/a/illinois.edu/srikant/) for inviting me! I had a great time in Urbana-Champaign! [[slides]](assets/pdf/caching_uiuc23.pdf)
+My invited talk about the universal optimality of timer based caching policies for bursty traffic. Thanks a lot to [R. Srikant](https://sites.google.com/a/illinois.edu/srikant/) for inviting me! I had a great time in Urbana-Champaign! [[slides]](/assets/pdf/caching_uiuc23.pdf)
