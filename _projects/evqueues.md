@@ -13,6 +13,6 @@ category: work
 
 This simulator in [Julia](https://julialang.org/) enables to simulate random arrival processes (Poisson) of vehciles to an EV charging station, with random demands and deadlines. It also has the ability to handle trace-based simulations from real world data such as those from [ACN-Sim](https://ev.caltech.edu/simulator) and test idealized scheduling policies.
 
-Check out the publications page for more info on analysis of scheduling in EV charging facilities.
+Check out my [publications](/publications) page also where we use the simulator to get insight on the analysis of scheduling policies for EV charging facilities.
 
 * [Source code](https://github.com/aferragu/EVQueues.jl)

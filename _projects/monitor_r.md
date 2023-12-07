@@ -15,7 +15,6 @@ category: work
     </div>
 </div>
 
-A monitor for computing the reproduction rate $$R_t$$ of COVID-19 reported cases in Uruguay, and perform comparisons with other countries. Developed together with Ernesto Mordecki, for the [National Scientific Advisory Group (GACH)](https://www.gub.uy/presidencia/gach) Uruguay.
+A monitor for computing the reproduction rate $$R_t$$ of COVID-19 reported cases in Uruguay, and perform comparisons with other countries. Developed together with [Prof. Ernesto Mordecki](http://www.cmat.edu.uy/~mordecki/), for the [National Scientific Advisory Group (GACH)](https://www.gub.uy/presidencia/gach) Uruguay.
 
-* Check it out [here](https://covid-monitor.agesic.gub.uy/)
 * [Source code](https://github.com/aferragu/covid-r-monitor)
