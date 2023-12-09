@@ -32,17 +32,36 @@ layout: default
             {%- if page.profile.more_info %}
             <div class="more-info">
               {{ page.profile.more_info }}
+              <!-- Social -->
+              {%- if page.social %}
+              <hr />
+    
+                <div class="social">
+                  <div class="contact-icons">
+                    {% include social.html %}
+                  </div>
+    
+                  <div class="contact-note">
+                    {{ site.contact_note }}
+                  </div>
+    
+                </div>
+              {%- endif %}
+    
             </div>
             {%- endif %}
           </div>
           {%- endif %}
 
-          <div class="clearfix">
+          <div class="clearfix bio">
             {{ content }}
           </div>
 
+
+
           <!-- News -->
           {% if page.news and site.announcements.enabled -%}
+            <hr />
             <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">News</a></h2>
             {%- include news.html limit=true %}
           {%- endif %}
@@ -55,24 +74,12 @@ layout: default
 
           <!-- Selected papers -->
           {% if page.selected_papers -%}
+          <hr />
           <h2>Selected publications</h2>
 
             {%- include selected_papers.html %}
           {%- endif %}
 
-          <!-- Social -->
-          {%- if page.social %}
-            <div class="social">
-              <div class="contact-icons">
-                {% include social.html %}
-              </div>
-
-              <div class="contact-note">
-                {{ site.contact_note }}
-              </div>
-
-            </div>
-          {%- endif %}
         </article>
 
 </div>
