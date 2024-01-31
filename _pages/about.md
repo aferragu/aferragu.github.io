@@ -11,7 +11,7 @@ profile:
     <h4>Professor of Networks and Communication Systems</h4>
     <p>School of Engineering,</p>
     <p><a href='https://fi.ort.edu.uy'>Universidad ORT Uruguay</a></p><br />
-    <p><a href="mailto://ferragut@fi365.ort.edu.uy">Contact</a></p>
+    <p><a href="mailto://ferragut@ort.edu.uy">Contact</a></p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
