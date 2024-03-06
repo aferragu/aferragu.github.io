@@ -9,7 +9,7 @@ category: undergraduate
 
 <div class="row">
 <div class="col">
-{%- include figure.html
+{%- include figure.liquid
   path="assets/img/numerical_analysis.jpg" title="example image"
   alt="project thumbnail" class="img-fluid rounded z-depth-1" -%}
 </div>
