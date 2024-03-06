@@ -16,7 +16,7 @@ profile:
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 I'm an Applied Mathematician by trade, Electrical Engineer by training and Computer Scientist as hobbyist. Currently, I am Chair of the Networks and Communication Systems department at Universidad ORT Uruguay, School of Engineering. I've got my PhD in Electrical Engineering from Universidad de la República (Uruguay) in 2011.
