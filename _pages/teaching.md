@@ -26,7 +26,7 @@ I like to use [jupyter notebooks](https://jupyter.org/) whenever possible for co
   <div class="container">
     <div class="row row-cols-2">
     {%- for project in sorted_courses -%}
-      {% include projects_horizontal.html %}
+      {% include projects_horizontal.liquid %}
     {%- endfor %}
     </div>
   </div>
@@ -47,7 +47,7 @@ I like to use [jupyter notebooks](https://jupyter.org/) whenever possible for co
   <div class="container">
     <div class="row row-cols-2">
     {%- for project in sorted_courses -%}
-      {% include projects_horizontal.html %}
+      {% include projects_horizontal.liquid %}
     {%- endfor %}
     </div>
   </div>

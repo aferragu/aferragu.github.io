@@ -8,11 +8,11 @@ body {
   color: var(--global-text-color);
   background-color: var(--global-bg-color);
   font-family: 'Lato', sans-serif;
+}
 
-  h1, h2, h3, h4, h5, h6 {
-    font-family: 'Oswald', sans-serif;
-    scroll-margin-top: 66px;
-  }
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Oswald', sans-serif;
+  scroll-margin-top: 66px;
 }
 
 body.fixed-top-nav {
