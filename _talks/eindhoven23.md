@@ -5,7 +5,7 @@ inline: true
 title: On the optimality of timer based caching policies.
 description: SPOR Seminar, TU/e, Eindhoven, Netherlands
 media: >
-  <a href="/assets/pdf/caching_uiuc23.pdf"><img src="/assets/img/caching_hazard_rates.png" width="200"/></a>
+  <a href="/assets/pdf/eindhoven23_caching.pdf"><img src="/assets/img/caching_hazard_rates.png" width="200"/></a>
 importance: 1
 category: seminar
 ---
