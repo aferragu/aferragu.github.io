@@ -2,7 +2,7 @@
 layout: page
 title: Professional services
 permalink: /consulting/
-description: Professional projects I've worked on...
+description: Some I+D projects I've worked on...
 nav: true
 nav_order: 5
 ---

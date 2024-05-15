@@ -5,7 +5,7 @@ inline: true
 title: Fondo Sectorial de Energía
 description: EV Optimization
 media: >
-  <img src="/assets/img/measured_demands.png" width="200"/>
+  <img src="/assets/img/measured_demands.png" width="200" style="padding-left:1em; padding-right:1em"/>
 importance: 1
 category: project
 ---
