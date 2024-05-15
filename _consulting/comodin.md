@@ -4,8 +4,8 @@ date: 2023-01-01 14:00:00+0100
 inline: true
 title: Comodin
 description: Distribution network optimization
-#media: >
-#  <a href="/assets/pdf/eindhoven23_caching.pdf"><img src="/assets/img/caching_hazard_rates.png" width="200"/></a>
+media: >
+  <img src="/assets/img/comodin.png" width="200"/>
 importance: 1
 category: project
 ---
