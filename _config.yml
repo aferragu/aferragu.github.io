@@ -178,6 +178,9 @@ collections:
   talks:
     output: true
     permalink: /talks/:path/
+  consulting:
+    output: true
+    permalink: /consulting/:path/
 
 announcements:
   enabled: true
