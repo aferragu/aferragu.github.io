@@ -10,4 +10,4 @@ media: >
 category: seminar
 ---
 
-My [talk](/assets/html/presentacion_UTE_ago24/UTE_ferragut_ago24.html) (in spanish) about optimization for incorporating EV charging in the electrical grid, in the [Forum about the 2nd Energy Transformation](), UTE, Aug 2024. [[PDF version]](/assets/pdf/UTE_ferragut_ago24.pdf)
+My [talk](/assets/html/presentacion_UTE_ago24/UTE_ferragut_ago24.html) (in spanish) about optimization for incorporating EV charging in the electrical grid, in the [Forum about the 2nd Energy Transformation](https://portal.ute.com.uy/2da-transformacion-energetica), UTE, Aug 2024. [[PDF version]](/assets/pdf/UTE_ferragut_ago24.pdf)
