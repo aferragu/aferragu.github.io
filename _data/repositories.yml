@@ -1,6 +1,8 @@
 github_users:
   - aferragu
 
+repo_description_lines_max: 2
+
 github_repos:
   - aferragu/covid-r-monitor
   - aferragu/EVQueues.jl
