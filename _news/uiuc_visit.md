@@ -5,4 +5,4 @@ inline: true
 title: UIUC visit!
 ---
 
-I was kindly invited by [Prof. R. Srikant](https://sites.google.com/a/illinois.edu/srikant/) to give a seminar at University of Illinois at Urbana-Champaign. My slides are [here](assets/pdf/caching_uiuc23.pdf)!
+I was kindly invited by [Prof. R. Srikant](https://sites.google.com/a/illinois.edu/srikant/) to give a seminar at University of Illinois at Urbana-Champaign. My slides are [here](/assets/pdf/caching_uiuc23.pdf)!

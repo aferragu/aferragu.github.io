@@ -6,4 +6,4 @@ title: ACM e-Energy paper!
 related_posts: false
 ---
 
-Our [paper](assets/pdf/eEnergy_22.pdf) on managing phase imbalance on EV charging systems just got accepted into ACM e-Energy 2022!
+Our [paper](/assets/pdf/eEnergy_22.pdf) on managing phase imbalance on EV charging systems just got accepted into ACM e-Energy 2022!
