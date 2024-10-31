@@ -10,7 +10,7 @@ nav_order: 3
 ---
 
 All of my teaching is given in spanish, so most of the materials here are in spanish.
-I like to use [jupyter notebooks](https://jupyter.org/) whenever possible for courses, since that enables to mix math and code easily, and give nice presentations via the [`rise`](https://rise.readthedocs.io/en/stable/) plugin.
+I like to use [jupyter notebooks](https://jupyter.org/) whenever possible for courses, since that enables to mix math and code easily, and give nice presentations via the [`rise`](https://rise.readthedocs.io/en/latest/) plugin.
 
 
 <!-- pages/teaching.md -->
