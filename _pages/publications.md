@@ -20,10 +20,8 @@ ___
 {% bibliography -f preprints %}
 
 </div>
--->
 ___
-
-<h2>Articles and Conferences</h2>
+-->
 
 <div class="publications">
 
