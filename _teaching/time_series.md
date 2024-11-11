@@ -18,7 +18,7 @@ category: graduate
 
 In this course, we provide the basic classical tools for Time Series analysis and forecasting, covering all the basic principles of correlation, cross-correlation, ARMA, ARIMA. We also cover state-space models and neural network analysis.
 
-* Source [here](https://github.com/aferragu/curso_series_temporales) (in spanish). Always updating!
+* Materials [here](https://aferragu.github.io/curso_series_temporales) (in spanish). Always updating!
 * Check the notebooks with [nbviewer](https://nbviewer.jupyter.org/github/aferragu/curso_series_temporales/tree/master/).
 
 </div>
