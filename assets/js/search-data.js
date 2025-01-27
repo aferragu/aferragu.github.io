@@ -68,7 +68,7 @@ ninja.data = [{
           description: "Distribution network optimization",
           section: "Consulting",},{id: "consulting-consulting-for-newlab-llc-brooklyn-usa-and-montevideo-uruguay-on-optimizing-the-electrical-vehicle-charging-of-mercado-libre-south-american-parking-lot-charging-stations-for-delivery-vehicles",
           title: 'Consulting for NewLab LLC (Brooklyn, USA and Montevideo, Uruguay) on optimizing the electrical...',
-          description: "TCP optimization",
+          description: "EV Logistics optimization",
           section: "Consulting",},{id: "consulting-consulting-for-iadb-on-shaping-public-policy-for-ai-infrastructure-in-uruguay",
           title: 'Consulting for IADB on shaping public policy for AI Infrastructure in Uruguay.',
           description: "Consulting",
