@@ -3,7 +3,7 @@ layout: post
 date: 2024-01-01 14:00:00+0100
 inline: true
 title: Newlab MeLi Mobility Studio
-description: TCP optimization
+description: EV Logistics optimization
 media: >
   <img src="/assets/img/ev.jpg" width="200" style="padding-left:1em; padding-right:1em"/>
 importance: 1
