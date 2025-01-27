@@ -51,18 +51,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "post-a-post-with-image-galleries",
-      
-        title: "a post with image galleries",
-      
-      description: "this is what included image galleries could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/photo-gallery/";
-        
-      },
-    },{id: "consulting-consulting-for-numetra-inc-california-usa-on-designing-a-new-internet-transport-protocol-suitable-for-video-transmission",
+        },{id: "consulting-consulting-for-numetra-inc-california-usa-on-designing-a-new-internet-transport-protocol-suitable-for-video-transmission",
           title: 'Consulting for Numetra Inc. (California, USA) on designing a new Internet Transport protocol...',
           description: "TCP optimization",
           section: "Consulting",},{id: "consulting-worked-with-plan-ceibal-an-initiative-to-bring-every-child-its-own-computer-with-internet-access-i-was-in-charge-of-designing-the-infrastructure-monitoring-system-and-developing-performance-metrics",
