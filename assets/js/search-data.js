@@ -138,7 +138,7 @@ ninja.data = [{
               window.location.href = "/projects/monitor_r/";
             },},{id: "talks-my-invited-talk-about-ev-charging-in-the-20th-informs-applied-probability-society-conference-brisbane-australia-thanks-a-lot-to-adam-wierman-and-alessandro-zocca-for-organizing-this-session-slides",
           title: 'My invited talk about EV charging in the 20th INFORMS Applied Probability Society...',
-          description: "IFIP Performance 2021",
+          description: "INFORMS APS 2019",
           section: "Talks",},{id: "talks-a-talk-in-spanish-about-the-challenges-in-future-energy-networks",
           title: 'A talk (in spanish) about the challenges in future energy networks.',
           description: "IFIP Performance 2021",
