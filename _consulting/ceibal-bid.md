@@ -2,7 +2,7 @@
 layout: post
 date: 2009-01-01 14:00:00+0100
 inline: true
-title: Numetra Inc.
+title: Ceibal
 description: Wireless networks optimization
 media: >
   <img src="/assets/img/olpc.jpeg" width="200" style="padding-left:1em; padding-right:1em"/>
