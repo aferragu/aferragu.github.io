@@ -18,6 +18,16 @@ news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
+
+announcements:
+  enabled: true # includes a list of news items
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  limit: 5 # leave blank to include all the news in the `_news` folder
+
+latest_posts:
+  enabled: true
+  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  limit: 3 # leave blank to include all the blog posts
 ---
 
 I'm an Applied Mathematician by trade, Electrical Engineer by training and Computer Scientist as hobbyist. Currently, I am Chair of the Networks and Communication Systems department at Universidad ORT Uruguay, School of Engineering. I've got my PhD in Electrical Engineering from Universidad de la República (Uruguay) in 2011.
