@@ -7,6 +7,6 @@ title: EV charging video
 
 Check out the new video on our EV charging project (in Spanish)!
 
-<div style="padding:2em">
-<iframe height="200" width="330" src="https://www.youtube.com/embed/2u4eIGVx7Eg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="container-fluid embed-responsive-16by9" style="width:90%;padding:2em">
+<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/2u4eIGVx7Eg" title="¿Qué es un data center? ¿Cómo impacta en el medio ambiente? ¿Por qué Google instala uno en Uruguay?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
