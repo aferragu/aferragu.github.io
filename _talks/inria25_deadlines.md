@@ -5,7 +5,7 @@ inline: true
 title: The last, the least and the urgent....
 description: My Talk at INRIA Mathnet Seminar
 media: >
-  <a href="/assets/pdf/allerton24_caching.pdf"><img src="/assets/img/deadline_queue.png" width="200"/></a>
+  <a href="/assets/pdf/partial_service_with_deadlines.pdf"><img src="/assets/img/deadline_queue.png" width="200"/></a>
 importance: 1
 category: seminar
 ---
