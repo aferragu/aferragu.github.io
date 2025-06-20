@@ -62,12 +62,7 @@ ninja.data = [{
             window.location.href = "/blog/2025/plotly/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "consulting-consulting-for-numetra-inc-california-usa-on-designing-a-new-internet-transport-protocol-suitable-for-video-transmission",
+      },{id: "consulting-consulting-for-numetra-inc-california-usa-on-designing-a-new-internet-transport-protocol-suitable-for-video-transmission",
           title: 'Consulting for Numetra Inc. (California, USA) on designing a new Internet Transport protocol...',
           description: "TCP optimization",
           section: "Consulting",},{id: "consulting-worked-with-plan-ceibal-an-initiative-to-bring-every-child-its-own-computer-with-internet-access-i-was-in-charge-of-designing-the-infrastructure-monitoring-system-and-developing-performance-metrics",
