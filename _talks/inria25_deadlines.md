@@ -10,4 +10,4 @@ importance: 1
 category: seminar
 ---
 
-My talk about partial service queues and the equivalence between EDF and LCFS at INRIA Mathnet Seminar, Paris, Jun 2025.
+My [talk](/assets/pdf/partial_service_with_deadlines.pdf) about partial service queues and the equivalence between EDF and LCFS at INRIA Mathnet Seminar, Paris, Jun 2025.
