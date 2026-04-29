@@ -51,18 +51,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "post-a-post-with-plotly-js",
-        
-          title: "a post with plotly.js",
-        
-        description: "this is what included plotly.js code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/plotly/";
-          
-        },
-      },{id: "consulting-consulting-for-numetra-inc-california-usa-on-designing-a-new-internet-transport-protocol-suitable-for-video-transmission",
+        },{id: "consulting-consulting-for-numetra-inc-california-usa-on-designing-a-new-internet-transport-protocol-suitable-for-video-transmission",
           title: 'Consulting for Numetra Inc. (California, USA) on designing a new Internet Transport protocol...',
           description: "TCP optimization",
           section: "Consulting",},{id: "consulting-worked-with-plan-ceibal-an-initiative-to-bring-every-child-its-own-computer-with-internet-access-i-was-in-charge-of-designing-the-infrastructure-monitoring-system-and-developing-performance-metrics",
@@ -160,6 +149,12 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-next-5-6-dec-2025-we-are-holding-the-international-control-workshop-uruguay-2025-with-leading-researchers-in-the-field-the-workshop-is-organized-by-grupo-mate-to-honor-fernando-paganini-and-his-contributions-to-control-theory",
           title: 'Next 5-6 Dec 2025, we are holding the international Control Workshop Uruguay 2025,...',
+          description: "",
+          section: "News",},{id: "news-our-paper-on-optimal-local-memory-management-policies-based-on-stochastic-intensities-with-matias-carrasco-and-fernando-paganini-just-got-accepted-into-informs-stochastic-systems",
+          title: 'Our paper on Optimal local memory management policies based on stochastic intensities with...',
+          description: "",
+          section: "News",},{id: "news-our-paper-on-geometric-lower-bounds-for-sparsely-connected-load-balancing-systems-with-diego-goldstajn-just-got-accepted-into-operations-research-letters",
+          title: 'Our paper on Geometric lower bounds for sparsely connected load balancing systems with...',
           description: "",
           section: "News",},{id: "projects-evqueues-jl",
           title: 'EVQueues.jl',
