@@ -20,7 +20,7 @@ category: undergraduate
   In this course, we cover the tools for Network Performance Analysis. From basic queueing theory to medium access control and congestion control algorithms. Simulations in Julia support all the theoretical aspects that we cover.
 
   * Source [here](https://github.com/aferragu/analisisderedes)) (in spanish). Last update: Dec 2021.
-  * Check the notebooks in  [nbviewer](https://nbviewer.jupyter.org/github/aferragu/analisisderedes/tree/master/).
+  * Check the notebooks in book format [here](https://aferragu.github.io/analisisderedes).
 
   </div>
 </div>
