@@ -10,8 +10,8 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
+<hr />
 
-<!-- 
 <h2>Preprints</h2>
 
 <div class="publications">
@@ -20,7 +20,7 @@ nav_order: 2
 
 </div>
 
---->
+<hr />
 
 <h2>Journal and conference papers</h2>
 
