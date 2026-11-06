@@ -5,7 +5,7 @@ inline: true
 title: The last, the least and the urgent....
 description: My Talk at IFIP Performance 25
 media: >
-  <a href="performance25_talk.pdf"><img src="/assets/img/deadline_queue.png" width="200"/></a>
+  <a href="/assets/pdf/performance25_talk.pdf"><img src="/assets/img/deadline_queue.png" width="200"/></a>
 importance: 1
 category: talk
 ---
