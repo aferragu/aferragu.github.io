@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2026-12-06 10:00:00-0300
+date: 2025-12-06 10:00:00-0300
 inline: true
 title: Queueing theory meets control.
 description: Control Workshop Uruguay 2025
